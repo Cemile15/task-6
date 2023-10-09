@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+
+}
+nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color:black;
+}
+h1{
+    color: white;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+li{
+    margin-right: 20px;
+    color:white;
+}
+.ll1{
+    width:100%;
+    height: 200px;
+    background-color: dodgerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h2{
+    
+    color: white;
+}
+.lll1{
+    margin-right: 80px;
+    color: white;
+}
+button{
+    width: 100px;
+    margin: 130px;
+    margin: 50px;
+}
+.ll2{
+    padding: 20px;
+    width: 100%;
+    height: 300px;
+    background-color: aliceblue;
+    
+}
+.llll2{
+    display: flex;flex-direction: column;
+    list-style:circle;
+    
+}
+.lllll1{
+    color: black;
+}
+.ll3{
+    width: 100%;
+    height: 300px;
+    background-color: lightslategray;
+}
+.ll4, .ll5{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h4{
+    color: white;
+}
+.ll5{
+    width: 100%;
+    height: 400px;
+    background: #fff;
+
+}
+.lll3{
+    width: 400px;
+}
+.ll5 h4{
+    color: black;
+}
+footer{
+    width: 100%;
+    height: 90px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h6{
+    color: white;
+}
